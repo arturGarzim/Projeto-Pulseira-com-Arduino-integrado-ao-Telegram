@@ -2,10 +2,10 @@
 #include <WiFiClientSecure.h>
 
 // ===== CONFIGURAÇÕES =====
-const char WIFI_SSID[] = "JUDYCAT"; //////////////////
-const char WIFI_PASSWORD[] = "garzim@amorim"; /////////////////
-const char BOT_TOKEN[] = "8258134665:AAEWYDkpDhpFn2FprksRiBHB_a9w0aqMdQo";
-const char CHAT_ID[] = "5044773810";
+const char WIFI_SSID[] = "seu wifi aqui"; //////////////////
+const char WIFI_PASSWORD[] = "sua senha do wifi aqui"; /////////////////
+const char BOT_TOKEN[] = "seu token do telegram aqui";
+const char CHAT_ID[] = "seu id do telegram aqui";
 const int TIMEOUT = 30000;
 
 // ===== VARIÁVEIS GLOBAIS =====
