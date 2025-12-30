@@ -59,4 +59,10 @@ const char WIFI_PASSWORD[] = "SENHA_DA_REDE";
 const char BOT_TOKEN[] = "TOKEN_DO_BOT_TELEGRAM";
 const char CHAT_ID[] = "CHAT_ID_DO_TELEGRAM";
 
+•• NO VÍDEO DO HARDWARE DO PROJETO ••
+- O fio verde está ligado no pino D5 do ARDUINO
+- O fio preto está ligado no pino GND do ARDUINO e abastece negativamente na PROTOBOARD
+
+
+
 
